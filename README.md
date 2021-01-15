@@ -1,4 +1,7 @@
 ### Hi there 👋
+📫 How to reach me: @psxdev on twitter
+
+![psxdev' github stats](https://github-readme-stats.vercel.app/api?username=psxdev&count_private=true&show_icons=true)
 
 <!--
 **psxdev/psxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
