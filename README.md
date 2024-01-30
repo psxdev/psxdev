@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S6TSF2C)
+
 📫 How to reach me: @psxdev on twitter
 
 ![psxdev' github stats](https://github-readme-stats.vercel.app/api?username=psxdev&count_private=true&show_icons=true)
